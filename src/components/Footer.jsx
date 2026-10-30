@@ -1,0 +1,1 @@
+export default function Footer(){return <footer className="footer"><div><b>&lt;YourName /&gt;</b><span>Built with React · JavaScript · CSS</span></div><span>© {new Date().getFullYear()} Your Name</span></footer>}
